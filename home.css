@@ -203,7 +203,7 @@ body{
 #product1 .pro{
     width: 23%;
     padding: 10px 12px;
-    min-width: 295px;
+    min-width: 200px;
     border: 1px solid #cce7d0;
     border-radius: 20px;
     cursor: pointer;
